@@ -1136,7 +1136,7 @@ They had not been long at the table when they were startled by the loud
 ringing of the door-bell.
 
 "'Pon my word," ejaculated Phoebe, "it's a long time since that bell's
-been rung," and getting down a plate of hotter biscuit, with which she
+been rung," and setting down a plate of hotter biscuit, with which she
 had been offering temptations, she left the room. Presently she returned,
 ushering in Dr. Tolbridge.
 
@@ -2930,7 +2930,7 @@ not until I came, she said, had any one applied who was not in trade."
 and told Mrs. Tolbridge that the madam cook wanted to see her. The lady
 of the house excused herself, and in a few minutes returned, smiling.
 
-"She wished to tell me," 'said she, "before my visitor left, that the
+"She wished to tell me," said she, "before my visitor left, that the
 name of the 'sweet' which she gave us at luncheon is _la promesse_, being
 merely a promise of what she is going to do, when she gets about her
 everything she wants."
@@ -3018,9 +3018,10 @@ considered the matter, "that you may as well go on, for I don't suppose
 it would do to disturb Mr. Haverley now. I know that when people are
 making hay, they can't stop for anything."
 
-"You are right," said her brother, with a smile; "hay-making the will of
-a rich man on his death-bed; it must be done promptly, if it is done at
-all. I shall go on, of course, and you will go with me?"
+"You are right," said her brother, with a smile; "hay-making the is like
+drawing will of a rich man on his death-bed; it must be done promptly,
+if it is done at all. I shall go on, of course, and you will go with
+me?"
 
 "No, indeed," said Dora, preparing to get down from the buggy; "I would
 not want to wait for you in that tiresome old horse-hair parlor of the
@@ -9590,7 +9591,7 @@ send him such an invitation, or sound such a call to him, that he would
 be sure to come.
 
 Accordingly Miss Panney determined to go to Barport without loss of time;
-and although she did hot know what sort of summons she should issue to
+and although she did not know what sort of summons she should issue to
 Ralph after she got there, she did not in the least doubt that
 circumstances would indicate the right thing to do. In fact, she would
 arrange circumstances in such a way that they should so indicate.
